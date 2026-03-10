@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://marhabajogja.com/sitemap.xml
-Sitemap:https://marhaba-restaurant.vercel.app/hariraya.html/sitemap.xml
-Sitemap:https://marhaba-restaurant.vercel.app/biryanipakistan.html/sitemap.xml
+Sitemap: https://marhaba-restaurant-hariraya.vercel.app/sitemap.xml
